@@ -40,8 +40,8 @@ Works:
 - Correct screenshot color (see https://gerrit.omnirom.org/#/c/android_bootable_recovery/+/31042/)
 
 Dont work:
-decryption of data
-Short freeze when connected to pc 
+- decryption of data
+- Short freeze when connected to pc 
 
 Finally execute these:
 
