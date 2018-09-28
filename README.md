@@ -34,13 +34,14 @@ PocoPhone F1 was announced and released 22 august 2018.
 Works:
 
 - ADB
+- MTP
 - Screen brightness settings
 - Now UI is very smooth (thanks to TWRP fix 16d831bee5a660f5ac6da0d8fff2b3ec4697d663)
 - Vibration on touch (see https://gerrit.omnirom.org/#/c/android_bootable_recovery/+/31021/)
 - Correct screenshot color (see https://gerrit.omnirom.org/#/c/android_bootable_recovery/+/31042/)
 
 Dont work:
-- decryption of data
+- Decryption of data
 - Short freeze when connected to pc 
 
 Finally execute these:
