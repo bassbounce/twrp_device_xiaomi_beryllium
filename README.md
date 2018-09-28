@@ -6,7 +6,7 @@ TWRP device tree for PocoPhone F1
 
 
 
-PocoPhone F1 was announced and released 22 august 2018.
+PocoPhone F1 was announced and released on 22th of august 2018.
 
 ## Device specifications
 
