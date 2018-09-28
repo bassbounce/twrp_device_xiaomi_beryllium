@@ -17,7 +17,7 @@ PocoPhone F1 was announced and released 22 august 2018.
 | GPU          | Adreno 630                                      |
 | Memory       | 6GB / 8GM RAM (LPDDR4X)                         |
 | Shipped Android version | 8.1                                  |
-| Storage      | 64GB / 128GB / 256GB UFS 2.1 flash storage      |
+| Storage      | 64GB / 128GB UFS 2.1 flash storage              |
 | Battery      |  Non-removable Li-Po 4000 mAh                   |
 | Dimensions   |  155.5 x 75.3 x 8.8 mm                          |
 | Display      | 2246x1080 (18:9), 6.18  inch                    |
