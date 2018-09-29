@@ -50,7 +50,7 @@ Finally execute these:
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
 lunch omni_beryllium-eng 
-LC_ALL=C 
+export LC_ALL=C
 mka recoveryimage
 ```
 
